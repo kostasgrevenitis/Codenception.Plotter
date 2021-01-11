@@ -1,1 +1,1 @@
-# Codenception.Plotter
+# Codenception plotter
